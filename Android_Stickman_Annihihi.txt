@@ -10,6 +10,6 @@
     "content": "- fixed bugs",
     "linkUpdate":"market://details?id=com.brain.physicspuzzles",
     "linkmoregame":"https://play.google.com/store/apps/developer?id=Stickman+Tech.,+JSC",
-    "event":"1"
+    "event":"0"
   }
 }
