@@ -1,0 +1,15 @@
+{
+  "fake": "0",
+  "idadmod": {
+      "baner":"ca-app-pub-2307368916067173/2277048631",
+	   "banerfull": "ca-app-pub-2307368916067173/5585738251"
+  },
+  "version": {
+     "name": "1.0.0",
+    "title":"Do you want to update the latest version?",
+    "content": "- fixed bugs",
+    "linkUpdate":"market://details?id=com.brain.physicspuzzles",
+    "linkmoregame":"https://play.google.com/store/apps/developer?id=Stickman+Tech.,+JSC",
+    "event":"1"
+  }
+}
