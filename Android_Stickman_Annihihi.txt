@@ -8,7 +8,7 @@
      "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "- fixed bugs",
-    "linkUpdate":"market://details?id=com.brain.physicspuzzles",
+    "linkUpdate":"market://details?id=stickman.annihilation.dismount",
     "linkmoregame":"https://play.google.com/store/apps/developer?id=Stickman+Tech.,+JSC",
     "event":"0"
   }
