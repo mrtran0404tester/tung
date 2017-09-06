@@ -10,6 +10,6 @@
     "content": "- Fixed bugs",
     "linkUpdate":"https://itunes.apple.com/us/app/stickman-ragdoll-annihilation/id1276098467?mt=8",
     "linkmoregame":"https://itunes.apple.com/us/developer/tien-tran/id1249980980",
-    "event":"0"
+    "event":"1"
   }
 }
