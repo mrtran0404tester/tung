@@ -1,0 +1,15 @@
+{
+  "fake": "0",
+  "idadmod": {
+      "baner":"ca-app-pub-2307368916067173/2681753609",
+	   "banerfull": "ca-app-pub-2307368916067173/4733201879"
+  },
+  "version": {
+     "name": "1.0.7",
+    "title":"Do you want to update the latest version?",
+    "content": "- Adding 40 new levels: 46-85
+- Fixed bugs",
+    "linkUpdate":"market://details?id=com.brain.physicspuzzles",
+    "linkmoregame":"https://play.google.com/store/apps/developer?id=Stickman+Tech.,+JSC"
+  }
+}
