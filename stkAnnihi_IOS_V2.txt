@@ -1,0 +1,14 @@
+{
+  "fake": "0",
+  "idadmod": {
+      "baner":"ca-app-pub-2307368916067173/9676680364",
+	   "banerfull": "ca-app-pub-2307368916067173/9676680364"
+  },
+  "version": {
+     "name": "1.0.0",
+    "title":"Do you want to update the latest version?",
+    "content": "- Fixed bugs",
+    "linkUpdate":"https://itunes.apple.com/us/app/brain-it-on-the-wood-trucks/id1262367846",
+    "linkmoregame":"https://itunes.apple.com/us/developer/tien-tran/id1249980980"
+  }
+}
