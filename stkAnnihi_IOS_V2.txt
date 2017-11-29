@@ -10,7 +10,7 @@
     "content": "- Fixed bugs",
     "linkUpdate":"https://itunes.apple.com/us/app/stickman-dismount-ragdoll/id1313719964?mt=8&ign-mpt=uo%3D2",
     "linkmoregame":"https://itunes.apple.com/us/developer/tien-tran/id1249980980",
- "event": "0"
+ "event": "1"
  
   }
 }
